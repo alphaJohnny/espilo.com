@@ -4,7 +4,7 @@
 # Site settings
 title: Espilo.com
 description: |
-  Wealth and Portfolio Management  
+  Wealth and Portfolio Management
 owner: Espilo.com # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: webmaster@espilo.com
@@ -16,7 +16,7 @@ social:
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: /contact@espilo.com/
+  #email: /contact@espilo.com/
   #flickr:
   #instagram:
   #youtube-square:
